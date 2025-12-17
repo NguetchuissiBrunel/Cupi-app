@@ -1,8 +1,8 @@
-# 💘 Cupidon App
+# Cupi App
 
 Cupidon est une application de rencontres moderne et interactive conçue pour connecter les âmes sœurs grâce à un algorithme de matchmaking par affinités, des appels vidéo en temps réel et un chat fluide.
 
-![Cupidon App](/public/logo.png) (Logo à ajouter)
+![Cupi App](/public/logo.png) (Logo à ajouter)
 
 ## ✨ Fonctionnalités Principales
 
